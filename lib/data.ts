@@ -7,6 +7,10 @@ import Mosam from "@/public/mosam.jpg";
 import SnapPeak from "@/public/snap-peak.png";
 import Metamagine from "@/public/metamagine.jpg";
 import ResuMap from "@/public/resumap.png";
+import Zentry from "@/public/zentry.png";
+import Polymath from "@/public/polymath.jpg";
+import Wardrobe from "@/public/wardrobe.jpg";
+import VaultSneak from "@/public/vaultsneaks.png";
 
 export const links = [
   {
@@ -47,6 +51,38 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "VaultSneaks",
+    description:
+      "I am currently working on VaultSneaks, a sneaker e-commerce platform using Next.js and Tailwind CSS with dynamic features.",
+    tags: ["Next JS", "Tailwind", "Typescript", "Sanity", "Sanity Typegen"],
+    imageUrl: VaultSneak,
+    link: "https://wardrobee.vercel.app/",
+  },
+  {
+    title: "Wardrobe",
+    description:
+      "I created a Ecommerce website Ui using third party api where user can add product to cart, view product details, add to wishlist.",
+    tags: ["Next JS", "Tailwind", "Typescript", "Gsap", "FakeStoreAPi"],
+    imageUrl: Wardrobe,
+    link: "https://wardrobee.vercel.app/",
+  },
+  {
+    title: "Zentry",
+    description:
+      "I clone a Zentry Website using Gsap.",
+    tags: ["Next JS", "Tailwind", "Typescript", "Gsap"],
+    imageUrl: Zentry,
+    link: "https://zentry-clonee.vercel.app/",
+  },
+  {
+    title: "Polymath",
+    description:
+      "I created a Blog Website Ui where user can read blogs, like, share, add reviews on blog.",
+    tags: ["Next JS", "Tailwind", "Typescript",],
+    imageUrl: Polymath,
+    link: "https://polymath-pro.vercel.app/",
+  },
   {
     title: "ResuMap",
     description:
