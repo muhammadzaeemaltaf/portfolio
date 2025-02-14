@@ -54,7 +54,7 @@ export const projectsData = [
   {
     title: "VaultSneaks",
     description:
-      "I am currently working on VaultSneaks, a sneaker e-commerce platform using Next.js and Tailwind CSS with dynamic features.",
+      "I created a website named VaultSneaks, a sneaker e-commerce platform using Next.js and Tailwind CSS with dynamic features.",
     tags: ["Next JS", "Tailwind", "Typescript", "Sanity", "Sanity Typegen"],
     imageUrl: VaultSneak,
     link: "https://wardrobee.vercel.app/",
@@ -62,7 +62,7 @@ export const projectsData = [
   {
     title: "Wardrobe",
     description:
-      "I created a Ecommerce website Ui using third party api where user can add product to cart, view product details, add to wishlist.",
+      "I created an Ecommerce website Ui using third party api where user can add product to cart, view product details, add to wishlist.",
     tags: ["Next JS", "Tailwind", "Typescript", "Gsap", "FakeStoreAPi"],
     imageUrl: Wardrobe,
     link: "https://wardrobee.vercel.app/",
@@ -94,7 +94,7 @@ export const projectsData = [
   {
     title: "Apple Iphone 15",
     description:
-      "I created a animated website for Apple Iphone 15.",
+      "I created an animated website for Apple Iphone 15.",
     tags: ["Next.js", "Tailwind", "Typescript", "React", "GSAP", "React Three Tiber"],
     imageUrl: AppleIphone,
     link: "https://apple-iphone-pro.vercel.app/",
@@ -102,7 +102,7 @@ export const projectsData = [
   {
     title: "AI SEO",
     description:
-      "I created a AI SEO website. It is built using Next.js, Tailwind CSS. It is hosted on Vercel.",
+      "I created an AI SEO website. It is built using Next.js, Tailwind CSS. It is hosted on Vercel.",
     tags: ["React", "Tailwind", "Typescript", "Next.js", "Framer Motion"],
     imageUrl: AiSEO,
     link: "https://ai-seo-ruby.vercel.app/",
@@ -134,7 +134,7 @@ export const projectsData = [
   {
     title: "MetaMagine",
     description:
-      "I created a interactive landing page named MetaMagine. It has user friendly UI with a lot of transition.",
+      "I created an interactive landing page named MetaMagine. It has user friendly UI with a lot of transition.",
       tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     imageUrl: Metamagine,
     link: "https://metamagine.atwebpages.com/",
