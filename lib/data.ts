@@ -57,7 +57,7 @@ export const projectsData = [
       "I created a website named VaultSneaks, a sneaker e-commerce platform using Next.js and Tailwind CSS with dynamic features.",
     tags: ["Next JS", "Tailwind", "Typescript", "Sanity", "Sanity Typegen"],
     imageUrl: VaultSneak,
-    link: "https://wardrobee.vercel.app/",
+    link: "https://vaultsneaks.vercel.app/",
   },
   {
     title: "Wardrobe",
